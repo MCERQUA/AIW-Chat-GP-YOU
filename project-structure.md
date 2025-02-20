@@ -199,4 +199,4 @@ F:\APP-AI-WORKSHOP\project\src\pages\Resources.tsx
 F:\APP-AI-WORKSHOP\project\src\pages\Settings.tsx 
 F:\APP-AI-WORKSHOP\project\src\pages\Support.tsx 
 F:\APP-AI-WORKSHOP\project\src\services\llm.ts 
-F:\APP-AI-WORKSHOP\project\src\services\openai.ts 
+F:\APP-AI-WORKSHOP\project\src\services\openai.ts
